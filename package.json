@@ -1,0 +1,28 @@
+{
+  "name": "sugar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "sass": "^1.39.2",
+    "sass-loader": "^10.2.0",
+    "autoprefixer": "^10.3.1",
+    "fibers": "^5.0.0",
+    "postcss": "^8.3.6",
+    "postcss-loader": "^4.2.0"
+  }
+}
